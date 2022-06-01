@@ -15,7 +15,7 @@
     ·
     <a href="https://github.com/calebameh/rock-paper-scissors/issues">Report Bug</a>
     ·
-    <a href="https://github.com/calebameh/rock-paper-scissorsissues">Request Feature</a>
+    <a href="https://github.com/calebameh/rock-paper-scissors/issues">Request Feature</a>
   </p>
 </div>
 
